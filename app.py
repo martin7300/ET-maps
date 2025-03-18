@@ -158,14 +158,16 @@ if not delta_df.empty:
                 ],
                 showscale=True,
                 colorbar=dict(
-                    title="Accuracy Score",
+                    title=dict(
+                        text="Accuracy Score",
+                        font=dict(family="Century Gothic", size=12)
+                    ),
                     tickvals=[min_val, max_val],
                     ticktext=[str(round(min_val, 1)), str(round(max_val, 1))],
                     lenmode="fraction",
                     len=0.6,
                     thickness=15,
-                    tickfont=dict(family="Century Gothic", size=10),
-                    titlefont=dict(family="Century Gothic", size=12)
+                    tickfont=dict(family="Century Gothic", size=10)
                 ),
                 visible=False  # Hide the dummy trace
             ))
