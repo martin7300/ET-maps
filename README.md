@@ -32,7 +32,7 @@ The application uses three CSV files that should be placed in a `data` folder:
 
 ## Deployment
 
-This app is deployed on Streamlit Community Cloud. Visit [the deployed app](https://your-app-url-here.streamlit.app) to see it in action.
+This app is deployed on Streamlit Community Cloud. Visit [the deployed app](https://et-maps.streamlit.app/) to see it in action.
 
 ## About the Data
 
