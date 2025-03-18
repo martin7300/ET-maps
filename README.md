@@ -1,6 +1,6 @@
 # Synthetic Survey Data Accuracy Visualization
 
-This Streamlit application visualises the accuracy of synthetic survey responses compared to real human responses across 140+ countries. It allows users to compare two different approaches - Electric Twin and Baseline - for generating synthetic survey data.
+This Streamlit application visualises the accuracy of synthetic survey responses compared to real human responses across 160+ countries. It allows users to compare two different approaches - Electric Twin and Baseline - for generating synthetic survey data.
 
 ## Features
 
